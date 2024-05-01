@@ -12,7 +12,7 @@ User code and address are used to distinguish different devices, you can modify 
 
 In my example, I used USART1 for computer communication and USART2 for the IR sensor.
 
-Include the header file in your main.h file.
+Include the header file in your main.c file.
 
 ```c
 /* Private includes ----------------------------------------------------------*/
